@@ -1,5 +1,6 @@
 # 📊 **Data Pipeline Assignment – AccuKnox**
 
+
 This repository contains **Python-based solutions** for an end-to-end **data pipeline** assignment that demonstrates API integration, data processing, visualization, and database management.
 
 ---
