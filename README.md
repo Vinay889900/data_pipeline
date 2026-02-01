@@ -27,7 +27,7 @@ This project implements a complete data pipeline consisting of three core compon
 **Key Features**
 
 * Automated database & table creation
-* Data validation and cleaning
+* Data validation and data Cleaning
 * Structured storage & retrieval
 
 ---
