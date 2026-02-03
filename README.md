@@ -120,6 +120,7 @@ python csv_to_db.py
 
 You may verify stored data using:
 
+
 * Script output logs
 * **DB Browser for SQLite** to inspect:
 
@@ -129,6 +130,7 @@ You may verify stored data using:
 This enables easy validation of database integrity and stored records.
 
 ---
+
 
 ## 🧠 **What This Project Demonstrates**
 
